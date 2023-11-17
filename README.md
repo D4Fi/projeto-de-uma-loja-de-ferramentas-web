@@ -1,2 +1,2 @@
 # projeto-de-uma-loja-de-ferramentas-web
-![image](t.pnh)
+![image](t.png)
